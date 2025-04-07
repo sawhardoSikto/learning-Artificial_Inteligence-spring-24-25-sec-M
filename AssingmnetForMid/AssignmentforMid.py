@@ -1,1 +1,16 @@
-a=input("please enter your number")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
