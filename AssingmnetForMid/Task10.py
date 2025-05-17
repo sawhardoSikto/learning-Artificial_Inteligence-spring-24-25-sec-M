@@ -34,6 +34,7 @@ A = input_matrix(rows1, cols1)
 
 print("\nSecond Matrix:")
 rows2 = int(input("Enter rows: "))
+
 cols2 = int(input("Enter columns: "))
 print("Enter numbers for second matrix:")
 B = input_matrix(rows2, cols2)
